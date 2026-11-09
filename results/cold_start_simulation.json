@@ -1,0 +1,128 @@
+{
+    "scenario_1_anonymous": [
+        {
+            "rank": 1,
+            "movieId": 318,
+            "title": "Shawshank Redemption, The (1994)",
+            "genres": "Crime|Drama",
+            "year": 1994.0,
+            "explanation": "Global Bayesian Popularity Baseline"
+        },
+        {
+            "rank": 2,
+            "movieId": 858,
+            "title": "Godfather, The (1972)",
+            "genres": "Crime|Drama",
+            "year": 1972.0,
+            "explanation": "Global Bayesian Popularity Baseline"
+        },
+        {
+            "rank": 3,
+            "movieId": 1204,
+            "title": "Lawrence of Arabia (1962)",
+            "genres": "Adventure|Drama|War",
+            "year": 1962.0,
+            "explanation": "Global Bayesian Popularity Baseline"
+        },
+        {
+            "rank": 4,
+            "movieId": 750,
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+            "genres": "Comedy|War",
+            "year": 1964.0,
+            "explanation": "Global Bayesian Popularity Baseline"
+        },
+        {
+            "rank": 5,
+            "movieId": 48516,
+            "title": "Departed, The (2006)",
+            "genres": "Crime|Drama|Thriller",
+            "year": 2006.0,
+            "explanation": "Global Bayesian Popularity Baseline"
+        }
+    ],
+    "scenario_2_genre_preferences": [
+        {
+            "rank": 1,
+            "movieId": 65982,
+            "title": "Outlander (2008)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 2008.0,
+            "explanation": "Content match with preferred genres: Sci-Fi, Action, Adventure"
+        },
+        {
+            "rank": 2,
+            "movieId": 208,
+            "title": "Waterworld (1995)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 1995.0,
+            "explanation": "Content match with preferred genres: Sci-Fi, Action, Adventure"
+        },
+        {
+            "rank": 3,
+            "movieId": 2094,
+            "title": "Rocketeer, The (1991)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 1991.0,
+            "explanation": "Content match with preferred genres: Sci-Fi, Action, Adventure"
+        },
+        {
+            "rank": 4,
+            "movieId": 6882,
+            "title": "Returner (Ritaanaa) (2002)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 2002.0,
+            "explanation": "Content match with preferred genres: Sci-Fi, Action, Adventure"
+        },
+        {
+            "rank": 5,
+            "movieId": 186587,
+            "title": "Rampage (2018)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 2018.0,
+            "explanation": "Content match with preferred genres: Sci-Fi, Action, Adventure"
+        }
+    ],
+    "scenario_3_seed_ratings": [
+        {
+            "rank": 1,
+            "movieId": 78499,
+            "title": "Toy Story 3 (2010)",
+            "genres": "Adventure|Animation|Children|Comedy|Fantasy|IMAX",
+            "year": 2010.0,
+            "explanation": "Synthesized from onboarding ratings"
+        },
+        {
+            "rank": 2,
+            "movieId": 1210,
+            "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 1983.0,
+            "explanation": "Synthesized from onboarding ratings"
+        },
+        {
+            "rank": 3,
+            "movieId": 3114,
+            "title": "Toy Story 2 (1999)",
+            "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+            "year": 1999.0,
+            "explanation": "Synthesized from onboarding ratings"
+        },
+        {
+            "rank": 4,
+            "movieId": 33493,
+            "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+            "genres": "Action|Adventure|Sci-Fi",
+            "year": 2005.0,
+            "explanation": "Synthesized from onboarding ratings"
+        },
+        {
+            "rank": 5,
+            "movieId": 2294,
+            "title": "Antz (1998)",
+            "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+            "year": 1998.0,
+            "explanation": "Synthesized from onboarding ratings"
+        }
+    ]
+}
